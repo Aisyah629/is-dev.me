@@ -4,7 +4,7 @@
     "email": "foo1@gmail.com",
     "repo": "https://github.com/Aisyah629/test"
   },
-  "subdomain": "aisyah629",
+  "subdomain": "cdn",
   "records": {
     "CNAME": "aisyah629.github.io"
   }
